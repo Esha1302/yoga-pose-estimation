@@ -23,9 +23,10 @@
   <li>Combined time: 1 hour, 6 minutes, and 5 seconds at 30 fps</li>
   <li>Data split ratio: 60:20:20 (approx.)</li>
   </ol>
-  
-  
-  
+  <p float="left" align="center">
+   <img src="/CNN-LSTM-model/data/framesinfo1.png" width="400" height="400" />
+   <img src="/CNN-LSTM-model/data/framesinfo2.png" width="400" height="400" />
+ </p>
   
 
 
