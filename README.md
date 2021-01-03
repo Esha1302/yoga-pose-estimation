@@ -24,14 +24,20 @@
   <li>Data split ratio: 60:20:20 (approx.)</li>
   </ol>
   <p float="left" align="center">
-   <img src="/CNN-LSTM-model/data/framesinfo1.png" width="400" height="400" />
-   <img src="/CNN-LSTM-model/data/framesinfo2.png" width="400" height="400" />
+   <img src="/CNN-LSTM-model/data/framesinfo1.png" width="400" height="360" />
+   <img src="/CNN-LSTM-model/data/framesinfo2.png" width="400" height="360" />
  </p>
   
-
-
-  
   <h4> Results: </h4>
+  
+  Results of the CNN-LSTM model on the 18 joint data of OpenPose is given below:
+  
+  - Train Accuracy: 99.95%
+  - Validation Accuracy: 99.60%
+  - Test Accuracy: 99.87%
+  
+  
+  
   
   
   
