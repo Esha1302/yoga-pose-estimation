@@ -13,3 +13,24 @@
         <li> to get 18 joint data, model used should be: COCO </li>
       </ul>
   </ol>
+  
+  <h4> Few details of Video dataset: </h4>
+  <ol>
+  <li>6 classes, 15 participants</li>
+  <li>Duration of each video: 45+ seconds with 30 frames per second</li>
+  <li>Surroundings: Indoor environment</li>
+  <li>Total videos: 88</li>
+  <li>Combined time: 1 hour, 6 minutes, and 5 seconds at 30 fps</li>
+  <li>Data split ratio: 60:20:20 (approx.)</li>
+  </ol>
+  
+  
+  
+  
+
+
+  
+  <h4> Results: </h4>
+  
+  
+  
