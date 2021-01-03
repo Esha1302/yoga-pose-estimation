@@ -36,6 +36,10 @@
   - Validation Accuracy: 99.60%
   - Test Accuracy: 99.87%
   
+  <p float="left" align="center">
+   <img src="/CNN-LSTM-model/models/18-joint-data/accuracy_plot3.jpg" width="400" height="360" />
+   <img src="/CNN-LSTM-model/models/18-joint-data/loss_plot3.jpg" width="400" height="360" />
+ </p>
   
   
   
