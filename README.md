@@ -30,7 +30,7 @@
   
   <h4> Results: </h4>
   
-  Results of the CNN-LSTM model on the 18 joint data of OpenPose is given below:
+  Results of the CNN-LSTM model on the 18 joint data of OpenPose are given below:
   
   - Train Accuracy: 99.95%
   - Validation Accuracy: 99.60%
